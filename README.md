@@ -2,7 +2,7 @@
 
 Hands-on audits and analyses of AI systems, completed during my PhD in Artificial Intelligence at the University of the Cumberlands for the course Ethics in Responsible AI (PhD 832). Each project evaluates a real or realistic AI system for fairness, accountability, legal compliance, social impact or moral status. Each one pairs an empirical probe or audit with the relevant ethics literature and the EU AI Act.
 
-**Nishanth Ravula** · Software engineer (ML and full-stack) · Austin, TX
+**Nishanth Ravula** · Software engineer (ML and full-stack) · Melissa, TX
 
 ---
 
